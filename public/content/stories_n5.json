@@ -1,0 +1,201 @@
+[
+  {
+    "id": "s-n5-01",
+    "title": "はじめての すし",
+    "titleEs": "Mi primer sushi",
+    "level": "N5",
+    "body": [
+      { "jp": "きょうは ともだちと すしやに 行きました。", "kana": "きょうは ともだちと すしやに いきました。", "es": "Hoy fui a un restaurante de sushi con un amigo." },
+      { "jp": "すしやは えきの ちかくに あります。", "kana": "すしやは えきの ちかくに あります。", "es": "El restaurante de sushi está cerca de la estación." },
+      { "jp": "みせの 中で、すしの おさらが まわって いました。", "kana": "みせの なかで、すしの おさらが まわって いました。", "es": "Dentro del local, los platos de sushi giraban en una cinta." },
+      { "jp": "とても おもしろかったです。", "kana": "とても おもしろかったです。", "es": "Era muy curioso." },
+      { "jp": "わたしは まぐろと たまごを 食べました。", "kana": "わたしは まぐろと たまごを たべました。", "es": "Yo comí atún y tortilla." },
+      { "jp": "わたしの おさらは しろでした。しろい おさらは 百円です。", "kana": "わたしの おさらは しろでした。しろい おさらは ひゃくえんです。", "es": "Mis platos eran blancos. Los platos blancos cuestan cien yenes." },
+      { "jp": "ともだちは あおい おさらの すしを たくさん 食べました。", "kana": "ともだちは あおい おさらの すしを たくさん たべました。", "es": "Mi amigo comió mucho sushi de los platos azules." },
+      { "jp": "「あおい おさらは きれいですから」と ともだちは 言いました。", "kana": "「あおい おさらは きれいですから」と ともだちは いいました。", "es": "\"Es que los platos azules son bonitos\", dijo mi amigo." },
+      { "jp": "おかねを はらう とき、ともだちは びっくりしました。", "kana": "おかねを はらう とき、ともだちは びっくりしました。", "es": "Al pagar, mi amigo se llevó un buen susto." },
+      { "jp": "あおい おさらは 一まい 五百円でした。", "kana": "あおい おさらは いちまい ごひゃくえんでした。", "es": "Cada plato azul costaba quinientos yenes." },
+      { "jp": "ともだちは 十五まい 食べました。", "kana": "ともだちは じゅうごまい たべました。", "es": "Y mi amigo había comido quince platos." },
+      { "jp": "「たかい！」と ともだちは 言いました。", "kana": "「たかい！」と ともだちは いいました。", "es": "\"¡Qué caro!\", exclamó mi amigo." },
+      { "jp": "でも、すしは とても おいしかったです。", "kana": "でも、すしは とても おいしかったです。", "es": "Pero el sushi estaba buenísimo." },
+      { "jp": "つぎは わたしも あおい おさらの すしを 食べたいです。でも、おかねが ありません。", "kana": "つぎは わたしも あおい おさらの すしを たべたいです。でも、おかねが ありません。", "es": "La próxima vez yo también quiero comer sushi de los platos azules. Pero no tengo dinero." }
+    ],
+    "vocab": [
+      { "jp": "すしや", "es": "restaurante de sushi" },
+      { "jp": "おさら", "es": "plato" },
+      { "jp": "まわる", "es": "girar, dar vueltas" },
+      { "jp": "まぐろ", "es": "atún" },
+      { "jp": "たまご", "es": "huevo, tortilla" },
+      { "jp": "おかねを はらう", "es": "pagar" },
+      { "jp": "びっくりする", "es": "sorprenderse, asustarse" },
+      { "jp": "たかい", "es": "caro" }
+    ]
+  },
+  {
+    "id": "s-n5-02",
+    "title": "アキハバラの 一日",
+    "titleEs": "Un día en Akihabara",
+    "level": "N5",
+    "body": [
+      { "jp": "せんしゅうの 土よう日、アキハバラに 行きました。", "kana": "せんしゅうの どようび、あきはばらに いきました。", "es": "El sábado pasado fui a Akihabara." },
+      { "jp": "アキハバラは でんきと アニメの まちです。", "kana": "あきはばらは でんきと あにめの まちです。", "es": "Akihabara es el barrio de la electrónica y del anime." },
+      { "jp": "大きい みせが たくさん あります。", "kana": "おおきい みせが たくさん あります。", "es": "Hay muchas tiendas grandes." },
+      { "jp": "わたしは ゲームが 大すきです。", "kana": "わたしは げーむが だいすきです。", "es": "A mí me encantan los videojuegos." },
+      { "jp": "ふるい ゲームの みせに 入りました。", "kana": "ふるい げーむの みせに はいりました。", "es": "Entré en una tienda de videojuegos antiguos." },
+      { "jp": "ゲームを 三つ 買いました。", "kana": "げーむを みっつ かいました。", "es": "Compré tres juegos." },
+      { "jp": "それから、みちが わかりませんでした。", "kana": "それから、みちが わかりませんでした。", "es": "Después, ya no sabía por dónde ir." },
+      { "jp": "えきは どこですか。", "kana": "えきは どこですか。", "es": "¿Dónde estaba la estación?" },
+      { "jp": "けいさつの 人が いました。", "kana": "けいさつの ひとが いました。", "es": "Vi a un policía." },
+      { "jp": "「すみません、えきは どこですか」と ききました。", "kana": "「すみません、えきは どこですか」と ききました。", "es": "\"Perdone, ¿dónde está la estación?\", le pregunté." },
+      { "jp": "その 人は 「すみません、わたしも わかりません」と 言いました。", "kana": "その ひとは 「すみません、わたしも わかりません」と いいました。", "es": "Aquella persona me dijo: \"Lo siento, yo tampoco lo sé\"." },
+      { "jp": "けいさつの 人じゃ ありませんでした。コスプレの 人でした！", "kana": "けいさつの ひとじゃ ありませんでした。こすぷれの ひとでした！", "es": "¡No era un policía de verdad! Era una persona haciendo cosplay." },
+      { "jp": "アキハバラには コスプレの 人が たくさん います。", "kana": "あきはばらには こすぷれの ひとが たくさん います。", "es": "En Akihabara hay mucha gente haciendo cosplay." },
+      { "jp": "メイドさんが えきの みちを おしえました。", "kana": "めいどさんが えきの みちを おしえました。", "es": "Al final, una chica de un maid café me indicó el camino a la estación." },
+      { "jp": "アキハバラは ほんとうに おもしろい まちです。", "kana": "あきはばらは ほんとうに おもしろい まちです。", "es": "Akihabara es un barrio realmente divertido." }
+    ],
+    "vocab": [
+      { "jp": "でんき", "es": "electricidad, electrónica" },
+      { "jp": "まち", "es": "barrio, ciudad" },
+      { "jp": "みち", "es": "camino" },
+      { "jp": "けいさつ", "es": "policía" },
+      { "jp": "きく", "es": "preguntar" },
+      { "jp": "おしえる", "es": "enseñar, indicar" },
+      { "jp": "コスプレ", "es": "cosplay" },
+      { "jp": "ほんとうに", "es": "de verdad, realmente" }
+    ]
+  },
+  {
+    "id": "s-n5-03",
+    "title": "ポケモンカードの みせ",
+    "titleEs": "La tienda de cartas Pokémon",
+    "level": "N5",
+    "body": [
+      { "jp": "わたしは ポケモンカードが 大すきです。", "kana": "わたしは ぽけもんかーどが だいすきです。", "es": "Me encantan las cartas Pokémon." },
+      { "jp": "とうきょうには カードの みせが たくさん あります。", "kana": "とうきょうには かーどの みせが たくさん あります。", "es": "En Tokio hay muchas tiendas de cartas." },
+      { "jp": "きのう、小さい みせに 行きました。", "kana": "きのう、ちいさい みせに いきました。", "es": "Ayer fui a una tienda pequeña." },
+      { "jp": "みせの おじさんは とても しんせつでした。", "kana": "みせの おじさんは とても しんせつでした。", "es": "El señor de la tienda era muy amable." },
+      { "jp": "カードの パックを 二つ 買いました。", "kana": "かーどの ぱっくを ふたつ かいました。", "es": "Compré dos sobres de cartas." },
+      { "jp": "一つは 三百円でした。", "kana": "ひとつは さんびゃくえんでした。", "es": "Cada uno costaba trescientos yenes." },
+      { "jp": "みせの 前で パックを あけました。", "kana": "みせの まえで ぱっくを あけました。", "es": "Abrí los sobres delante de la tienda." },
+      { "jp": "一つめの パックは ざんねんでした。", "kana": "ひとつめの ぱっくは ざんねんでした。", "es": "El primer sobre fue una decepción." },
+      { "jp": "いい カードが ありませんでした。", "kana": "いい かーどが ありませんでした。", "es": "No había ninguna carta buena." },
+      { "jp": "でも、二つめの パックに キラキラの ピカチュウが ありました！", "kana": "でも、ふたつめの ぱっくに きらきらの ぴかちゅうが ありました！", "es": "Pero ¡en el segundo sobre había un Pikachu brillante!" },
+      { "jp": "わたしは 大きい こえで 「やった！」と 言いました。", "kana": "わたしは おおきい こえで 「やった！」と いいました。", "es": "Grité \"¡Toma ya!\" con voz muy alta." },
+      { "jp": "おじさんも カードを 見に きました。", "kana": "おじさんも かーどを みに きました。", "es": "El señor de la tienda también vino a ver la carta." },
+      { "jp": "「その カードは 一まん円ですよ」と おじさんは 言いました。", "kana": "「その かーどは いちまんえんですよ」と おじさんは いいました。", "es": "\"Esa carta vale diez mil yenes\", me dijo." },
+      { "jp": "パックは 三百円でした。カードは 一まん円です。", "kana": "ぱっくは さんびゃくえんでした。かーどは いちまんえんです。", "es": "El sobre costó trescientos yenes. La carta vale diez mil." },
+      { "jp": "でも、わたしは この カードを うりません。たからものですから。", "kana": "でも、わたしは この かーどを うりません。たからものですから。", "es": "Pero yo no pienso vender esta carta. Porque es mi tesoro." }
+    ],
+    "vocab": [
+      { "jp": "パック", "es": "sobre (de cartas)" },
+      { "jp": "しんせつ（な）", "es": "amable" },
+      { "jp": "あける", "es": "abrir" },
+      { "jp": "ざんねん（な）", "es": "una pena, decepcionante" },
+      { "jp": "キラキラ", "es": "brillante" },
+      { "jp": "こえ", "es": "voz" },
+      { "jp": "うる", "es": "vender" },
+      { "jp": "たからもの", "es": "tesoro" }
+    ]
+  },
+  {
+    "id": "s-n5-04",
+    "title": "しんかんせんで",
+    "titleEs": "En el shinkansen",
+    "level": "N5",
+    "body": [
+      { "jp": "十二月に、しんかんせんで きょうとに 行きました。", "kana": "じゅうにがつに、しんかんせんで きょうとに いきました。", "es": "En diciembre fui a Kioto en shinkansen." },
+      { "jp": "しんかんせんは とても はやいです。", "kana": "しんかんせんは とても はやいです。", "es": "El shinkansen es rapidísimo." },
+      { "jp": "とうきょうえきで おべんとうを 買いました。", "kana": "とうきょうえきで おべんとうを かいました。", "es": "En la estación de Tokio compré un bento." },
+      { "jp": "まどから ふじさんが 見えました。", "kana": "まどから ふじさんが みえました。", "es": "Desde la ventana se veía el monte Fuji." },
+      { "jp": "とても きれいでした。しゃしんを とりました。", "kana": "とても きれいでした。しゃしんを とりました。", "es": "Era precioso. Le hice una foto." },
+      { "jp": "それから、おべんとうを 食べました。", "kana": "それから、おべんとうを たべました。", "es": "Después me comí el bento." },
+      { "jp": "おなかが いっぱいに なりました。", "kana": "おなかが いっぱいに なりました。", "es": "Me quedé llenísimo." },
+      { "jp": "そして、ねました。", "kana": "そして、ねました。", "es": "Y me dormí." },
+      { "jp": "「つぎは きょうとです」の アナウンスを ききませんでした。", "kana": "「つぎは きょうとです」の あなうんすを ききませんでした。", "es": "No oí el aviso de \"Próxima parada: Kioto\"." },
+      { "jp": "おきた とき、でんしゃは おおさかに いました。", "kana": "おきた とき、でんしゃは おおさかに いました。", "es": "Cuando me desperté, el tren ya estaba en Osaka." },
+      { "jp": "わたしは びっくりしました。きょうとは？", "kana": "わたしは びっくりしました。きょうとは？", "es": "Me llevé un susto. ¿Y Kioto?" },
+      { "jp": "でも、だいじょうぶでした。", "kana": "でも、だいじょうぶでした。", "es": "Pero no pasó nada." },
+      { "jp": "おおさかで おこのみやきを 食べました。とても おいしかったです。", "kana": "おおさかで おこのみやきを たべました。とても おいしかったです。", "es": "En Osaka comí okonomiyaki. Estaba riquísimo." },
+      { "jp": "きょうとの おてらは 見ませんでした。", "kana": "きょうとの おてらは みませんでした。", "es": "No vi los templos de Kioto." },
+      { "jp": "らいねん、また 行きます。こんどは ねません。", "kana": "らいねん、また いきます。こんどは ねません。", "es": "El año que viene volveré. Y esta vez no me dormiré." }
+    ],
+    "vocab": [
+      { "jp": "しんかんせん", "es": "shinkansen, tren bala" },
+      { "jp": "おべんとう", "es": "bento, comida para llevar" },
+      { "jp": "まど", "es": "ventana" },
+      { "jp": "見える", "es": "verse, poder verse" },
+      { "jp": "アナウンス", "es": "aviso por megafonía" },
+      { "jp": "おきる", "es": "despertarse" },
+      { "jp": "おてら", "es": "templo budista" },
+      { "jp": "こんど", "es": "la próxima vez" }
+    ]
+  },
+  {
+    "id": "s-n5-05",
+    "title": "なつまつりの きんぎょ",
+    "titleEs": "El pez del festival de verano",
+    "level": "N5",
+    "body": [
+      { "jp": "八月に、ともだちと なつまつりに 行きました。", "kana": "はちがつに、ともだちと なつまつりに いきました。", "es": "En agosto fui con una amiga a un festival de verano." },
+      { "jp": "わたしは ゆかたを きました。", "kana": "わたしは ゆかたを きました。", "es": "Yo me puse un yukata." },
+      { "jp": "まつりには 人が たくさん いました。", "kana": "まつりには ひとが たくさん いました。", "es": "En el festival había muchísima gente." },
+      { "jp": "たこやきを 食べて、ラムネを のみました。", "kana": "たこやきを たべて、らむねを のみました。", "es": "Comimos takoyaki y bebimos Ramune." },
+      { "jp": "それから、きんぎょすくいを しました。", "kana": "それから、きんぎょすくいを しました。", "es": "Después jugamos a pescar pececillos de colores." },
+      { "jp": "きんぎょすくいは かみの ポイで きんぎょを とる あそびです。", "kana": "きんぎょすくいは かみの ぽいで きんぎょを とる あそびです。", "es": "Es un juego en el que se cogen peces con una pala de papel." },
+      { "jp": "わたしは 五かい やりました。", "kana": "わたしは ごかい やりました。", "es": "Lo intenté cinco veces." },
+      { "jp": "でも、きんぎょは 一ぴきも とれませんでした。", "kana": "でも、きんぎょは いっぴきも とれませんでした。", "es": "Pero no conseguí coger ni un solo pez." },
+      { "jp": "かみの ポイは すぐ こわれます。", "kana": "かみの ぽいは すぐ こわれます。", "es": "La pala de papel se rompe enseguida." },
+      { "jp": "わたしは かなしかったです。", "kana": "わたしは かなしかったです。", "es": "Me puse triste." },
+      { "jp": "みせの おじさんは わらいました。", "kana": "みせの おじさんは わらいました。", "es": "El señor del puesto se rio." },
+      { "jp": "「はい、どうぞ」と 言って、きんぎょを 一ぴき くれました。", "kana": "「はい、どうぞ」と いって、きんぎょを いっぴき くれました。", "es": "Dijo \"Toma, para ti\" y me regaló un pececillo." },
+      { "jp": "きんぎょの なまえは 「まつり」に しました。", "kana": "きんぎょの なまえは 「まつり」に しました。", "es": "Al pez le puse de nombre \"Matsuri\"." },
+      { "jp": "いま、まつりは わたしの へやに います。", "kana": "いま、まつりは わたしの へやに います。", "es": "Ahora Matsuri vive en mi habitación." },
+      { "jp": "まつりは まいにち 大きく なります。いまは わたしの 手より 大きいです。", "kana": "まつりは まいにち おおきく なります。いまは わたしの てより おおきいです。", "es": "Matsuri crece cada día. Ahora ya es más grande que mi mano." },
+      { "jp": "ちょっと こわいです。", "kana": "ちょっと こわいです。", "es": "Y empieza a darme un poco de miedo." }
+    ],
+    "vocab": [
+      { "jp": "なつまつり", "es": "festival de verano" },
+      { "jp": "ゆかた", "es": "yukata, kimono ligero de verano" },
+      { "jp": "きんぎょ", "es": "pez dorado, pececillo de colores" },
+      { "jp": "きんぎょすくい", "es": "juego de pescar pececillos" },
+      { "jp": "こわれる", "es": "romperse" },
+      { "jp": "かなしい", "es": "triste" },
+      { "jp": "わらう", "es": "reírse" },
+      { "jp": "くれる", "es": "regalar, dar (a mí)" },
+      { "jp": "こわい", "es": "que da miedo" }
+    ]
+  },
+  {
+    "id": "s-n5-06",
+    "title": "メロンパンの なぞ",
+    "titleEs": "El misterio del melonpan",
+    "level": "N5",
+    "body": [
+      { "jp": "がっこうの ちかくに 小さい パンやが あります。", "kana": "がっこうの ちかくに ちいさい ぱんやが あります。", "es": "Cerca de mi escuela hay una panadería pequeña." },
+      { "jp": "その パンやの メロンパンは とても ゆうめいです。", "kana": "その ぱんやの めろんぱんは とても ゆうめいです。", "es": "El melonpan de esa panadería es muy famoso." },
+      { "jp": "でも、わたしが 行く とき、メロンパンは いつも ありません。", "kana": "でも、わたしが いく とき、めろんぱんは いつも ありません。", "es": "Pero cuando yo voy, nunca queda melonpan." },
+      { "jp": "「すみません、メロンパンは もう ありません」と みせの 人は 言います。", "kana": "「すみません、めろんぱんは もう ありません」と みせの ひとは いいます。", "es": "\"Lo siento, ya no queda melonpan\", me dice siempre la dependienta." },
+      { "jp": "まいにち、だれが ぜんぶ 買いますか。", "kana": "まいにち、だれが ぜんぶ かいますか。", "es": "¿Quién lo compra todo cada día?" },
+      { "jp": "わたしは しりたかったです。", "kana": "わたしは しりたかったです。", "es": "Yo quería saberlo." },
+      { "jp": "きのう、あさ 六じに おきました。", "kana": "きのう、あさ ろくじに おきました。", "es": "Ayer me levanté a las seis de la mañana." },
+      { "jp": "六じはんに パンやに 行きました。", "kana": "ろくじはんに ぱんやに いきました。", "es": "A las seis y media fui a la panadería." },
+      { "jp": "パンやの 前に 人が 一人 いました。", "kana": "ぱんやの まえに ひとが ひとり いました。", "es": "Delante de la panadería había una persona." },
+      { "jp": "その 人は メロンパンを 十こ 買いました。", "kana": "その ひとは めろんぱんを じゅっこ かいました。", "es": "Esa persona compró diez melonpan." },
+      { "jp": "かおを 見て、わたしは びっくりしました。", "kana": "かおを みて、わたしは びっくりしました。", "es": "Cuando le vi la cara, me quedé de piedra." },
+      { "jp": "日本ごの たなかせんせいでした！", "kana": "にほんごの たなかせんせいでした！", "es": "¡Era el señor Tanaka, mi profesor de japonés!" },
+      { "jp": "せんせいは 「メロンパンは わたしの あさごはんです。ひみつですよ」と 言いました。", "kana": "せんせいは 「めろんぱんは わたしの あさごはんです。ひみつですよ」と いいました。", "es": "El profesor me dijo: \"El melonpan es mi desayuno. Que quede entre nosotros\"." },
+      { "jp": "わたしも メロンパンを 二つ 買いました。", "kana": "わたしも めろんぱんを ふたつ かいました。", "es": "Yo también compré dos melonpan." },
+      { "jp": "とても おいしかったです。せんせいの きもちが わかりました。", "kana": "とても おいしかったです。せんせいの きもちが わかりました。", "es": "Estaban buenísimos. Entendí perfectamente al profesor." }
+    ],
+    "vocab": [
+      { "jp": "パンや", "es": "panadería" },
+      { "jp": "メロンパン", "es": "melonpan, pan dulce con forma de melón" },
+      { "jp": "ゆうめい（な）", "es": "famoso" },
+      { "jp": "ぜんぶ", "es": "todo" },
+      { "jp": "しる", "es": "saber" },
+      { "jp": "かお", "es": "cara" },
+      { "jp": "ひみつ", "es": "secreto" },
+      { "jp": "きもち", "es": "sentimiento, sensación" }
+    ]
+  }
+]
