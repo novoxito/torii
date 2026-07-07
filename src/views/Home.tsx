@@ -15,9 +15,10 @@ interface Props {
   state: AppState
   mutate: (fn: (s: AppState) => void) => void
   startSession: (s: SessionSpec) => void
+  openPlacement: () => void
 }
 
-export default function Home({ units, state, mutate, startSession }: Props) {
+export default function Home({ units, state, mutate, startSession, openPlacement }: Props) {
   const [showAll, setShowAll] = useState(false)
   const due = useMemo(() => dueIds(state), [state])
   const streak = computeStreak(state.history)
@@ -62,6 +63,10 @@ export default function Home({ units, state, mutate, startSession }: Props) {
       <p style={{ color: 'var(--muted)', fontSize: '0.8rem', textAlign: 'center', margin: '8px 0 4px' }}>
         {newLeft > 0 ? `Puedes aprender ${newLeft} elementos nuevos hoy` : 'Límite de nuevos alcanzado hoy: toca repasar 💪'}
       </p>
+
+      <button className="btn secondary" style={{ marginTop: 4 }} onClick={openPlacement}>
+        🎯 Prueba de nivel (saltar a tu nivel)
+      </button>
 
       <h2>Tu camino</h2>
       {visibleUnits.map((u) => {

@@ -21,12 +21,30 @@ interface Props {
   onClose: () => void
 }
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr]
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[a[i], a[j]] = [a[j], a[i]]
+  }
+  return a
+}
+
 export default function Session({ spec, lookup, state, mutate, onClose }: Props) {
   const [queue, setQueue] = useState<Step[]>(() => {
     const steps: Step[] = []
-    for (const id of spec.itemIds) {
-      if (spec.mode === 'learn') steps.push({ kind: 'intro', id })
-      steps.push({ kind: 'ex', id })
+    if (spec.mode === 'learn') {
+      // Learn in small batches: present a handful of new items, then quiz them
+      // interleaved (twice each) so you actually build recall, not just echo.
+      const BATCH = 4
+      for (let i = 0; i < spec.itemIds.length; i += BATCH) {
+        const batch = spec.itemIds.slice(i, i + BATCH)
+        for (const id of batch) steps.push({ kind: 'intro', id })
+        for (const id of shuffle(batch)) steps.push({ kind: 'ex', id })
+        for (const id of shuffle(batch)) steps.push({ kind: 'ex', id })
+      }
+    } else {
+      for (const id of spec.itemIds) steps.push({ kind: 'ex', id })
     }
     return steps
   })

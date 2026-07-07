@@ -4,6 +4,7 @@ import { loadContent, buildLookup, buildUnits } from './lib/content'
 import { loadState, saveState, type AppState } from './lib/store'
 import Home from './views/Home'
 import Session from './views/Session'
+import PlacementTest from './views/PlacementTest'
 import GrammarView from './views/GrammarView'
 import StoriesView from './views/StoriesView'
 import KanjiView from './views/KanjiView'
@@ -23,6 +24,7 @@ export default function App() {
   const [state, setState] = useState<AppState>(() => loadState())
   const [tab, setTab] = useState<Tab>('home')
   const [session, setSession] = useState<SessionSpec | null>(null)
+  const [placement, setPlacement] = useState(() => !state.onboarded)
 
   useEffect(() => {
     loadContent().then(setContent)
@@ -56,7 +58,15 @@ export default function App() {
   return (
     <div className="app">
       {tab === 'home' && (
-        <Home content={content} lookup={lookup} units={units} state={state} mutate={mutate} startSession={setSession} />
+        <Home
+          content={content}
+          lookup={lookup}
+          units={units}
+          state={state}
+          mutate={mutate}
+          startSession={setSession}
+          openPlacement={() => setPlacement(true)}
+        />
       )}
       {tab === 'grammar' && <GrammarView content={content} state={state} mutate={mutate} />}
       {tab === 'stories' && <StoriesView content={content} state={state} mutate={mutate} />}
@@ -72,6 +82,10 @@ export default function App() {
           mutate={mutate}
           onClose={() => setSession(null)}
         />
+      )}
+
+      {placement && (
+        <PlacementTest content={content} mutate={mutate} onDone={() => { setPlacement(false); setTab('home') }} />
       )}
 
       <nav className="nav">

@@ -30,6 +30,8 @@ export interface AppState {
   history: Record<string, number>
   /** new cards introduced per day */
   newIntroduced: Record<string, number>
+  /** placement test completed */
+  onboarded: boolean
 }
 
 const KEY = 'torii-state-v1'
@@ -55,6 +57,7 @@ export function defaultState(): AppState {
     xp: 0,
     history: {},
     newIntroduced: {},
+    onboarded: false,
   }
 }
 

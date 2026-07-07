@@ -2,8 +2,8 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
-export default defineConfig({
-  base: '/torii/',
+export default defineConfig(({ command }) => ({
+  base: command === 'build' ? '/torii/' : '/',
   plugins: [
     react(),
     VitePWA({
@@ -41,4 +41,4 @@ export default defineConfig({
       },
     }),
   ],
-})
+}))
